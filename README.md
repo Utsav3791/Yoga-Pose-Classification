@@ -106,4 +106,4 @@ Controlling robots is yet another application for this computer vision technolog
 [tensorflow](https://pypi.org/project/tensorflow/)\
 [keras](https://pypi.org/project/keras/)\
 [pillow](https://pypi.org/project/Pillow/)\
-[opencv](https://pypi.org/project/opencv-python/)\
+[opencv](https://pypi.org/project/opencv-python/)
